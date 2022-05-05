@@ -1,0 +1,5 @@
+# 测试环境，外部用户无法访问，专门给测试人员使用的，版本相对稳定
+spring:
+  # 应用名称
+  application:
+    name: wandring
